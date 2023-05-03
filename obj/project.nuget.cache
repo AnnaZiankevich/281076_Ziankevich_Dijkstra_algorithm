@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4HaScyZJWkcJYQWAVJFEiVkNTbuBJgWgrdHFgJ4PA5VuGGAnRkrAmJkIG0WFelgUgeCYphc+q9y5dVFLwnYvyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\dijkstra_algorithm\\dijkstra_algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\37544\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
