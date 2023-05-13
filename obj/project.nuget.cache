@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4HaScyZJWkcJYQWAVJFEiVkNTbuBJgWgrdHFgJ4PA5VuGGAnRkrAmJkIG0WFelgUgeCYphc+q9y5dVFLwnYvyg==",
+  "dgSpecHash": "5EViRqE8ejx4wVf6mBddsjpff/0TbONv4pqDf8ULucoF1lSkp+ggjlpLGAlrdca+Dbue1SW3/xtWMpDad1ymew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\dijkstra_algorithm\\dijkstra_algorithm.csproj",
+  "projectFilePath": "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\Программное средство\\dijkstra_algorithm\\dijkstra_algorithm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\37544\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
   ],

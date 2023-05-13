@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\dijkstra_algorithm\\dijkstra_algorithm.csproj": {}
+    "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\Программное средство\\dijkstra_algorithm\\dijkstra_algorithm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\dijkstra_algorithm\\dijkstra_algorithm.csproj": {
+    "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\Программное средство\\dijkstra_algorithm\\dijkstra_algorithm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\dijkstra_algorithm\\dijkstra_algorithm.csproj",
+        "projectUniqueName": "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\Программное средство\\dijkstra_algorithm\\dijkstra_algorithm.csproj",
         "projectName": "dijkstra_algorithm",
-        "projectPath": "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\dijkstra_algorithm\\dijkstra_algorithm.csproj",
+        "projectPath": "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\Программное средство\\dijkstra_algorithm\\dijkstra_algorithm.csproj",
         "packagesPath": "C:\\Users\\37544\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\dijkstra_algorithm\\obj\\",
+        "outputPath": "C:\\Users\\37544\\Desktop\\БГУИР\\оаип\\курсовой\\Программное средство\\dijkstra_algorithm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

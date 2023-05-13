@@ -14,3 +14,19 @@ C:\Users\37544\Desktop\БГУИР\оаип\курсовой\dijkstra_algorithm\o
 C:\Users\37544\Desktop\БГУИР\оаип\курсовой\dijkstra_algorithm\obj\Debug\net5.0\ref\dijkstra_algorithm.dll
 C:\Users\37544\Desktop\БГУИР\оаип\курсовой\dijkstra_algorithm\obj\Debug\net5.0\dijkstra_algorithm.pdb
 C:\Users\37544\Desktop\БГУИР\оаип\курсовой\dijkstra_algorithm\obj\Debug\net5.0\dijkstra_algorithm.genruntimeconfig.cache
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\bin\Debug\net5.0\dijkstra_algorithm.exe
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\bin\Debug\net5.0\dijkstra_algorithm.deps.json
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\bin\Debug\net5.0\dijkstra_algorithm.runtimeconfig.json
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\bin\Debug\net5.0\dijkstra_algorithm.runtimeconfig.dev.json
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\bin\Debug\net5.0\dijkstra_algorithm.dll
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\bin\Debug\net5.0\ref\dijkstra_algorithm.dll
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\bin\Debug\net5.0\dijkstra_algorithm.pdb
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\obj\Debug\net5.0\dijkstra_algorithm.csproj.AssemblyReference.cache
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\obj\Debug\net5.0\dijkstra_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\obj\Debug\net5.0\dijkstra_algorithm.AssemblyInfoInputs.cache
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\obj\Debug\net5.0\dijkstra_algorithm.AssemblyInfo.cs
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\obj\Debug\net5.0\dijkstra_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\obj\Debug\net5.0\dijkstra_algorithm.dll
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\obj\Debug\net5.0\ref\dijkstra_algorithm.dll
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\obj\Debug\net5.0\dijkstra_algorithm.pdb
+C:\Users\37544\Desktop\БГУИР\оаип\курсовой\Программное средство\dijkstra_algorithm\obj\Debug\net5.0\dijkstra_algorithm.genruntimeconfig.cache
